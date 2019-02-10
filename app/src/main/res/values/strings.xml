@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sarosta Ne Nerede?</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="string_name" />
+    <string name="title_activity_comment_update">CommentUpdateActivity</string>
+    <string name="logout">LogOut</string>
+    <string name="title_activity_hotels_details">HotelsDetails</string>
+    <string name="title_activity_hotel_details">HotelDetailsActivity</string>
+</resources>

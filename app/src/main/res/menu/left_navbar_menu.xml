@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home" android:title="Anasayfa"></item>
+    <item android:id="@+id/nav_restaurant" android:title="Restoranlar"></item>
+    <item android:id="@+id/nav_hotels" android:title="Oteller"></item>
+    <item android:id="@+id/nav_pharmacy" android:title="Eczaneler"></item>
+    <item android:id="@+id/nav_cinema" android:title="Sinemalar"></item>
+    <item android:id="@+id/nav_hospital" android:title="Hastaneler"></item>
+    <item android:id="@+id/nav_garden" android:title="Parklar"></item>
+</menu>

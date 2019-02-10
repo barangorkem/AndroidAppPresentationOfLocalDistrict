@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "285917902272",
+    "firebase_url": "https://mobilprojeodev.firebaseio.com",
+    "project_id": "mobilprojeodev",
+    "storage_bucket": "mobilprojeodev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285917902272:android:e507271c026f7ecb",
+        "android_client_info": {
+          "package_name": "com.example.baran.mobileprogrammingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285917902272-asnls09dfqe2s0vcs7pc3orem30u1h4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsteKHBg5XO-2cN4blpXkUKDFc43Zvks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
